@@ -1,0 +1,2 @@
+epoch,loss,lr,mean_io_u,precision,recall,val_loss,val_mean_io_u,val_precision,val_recall
+0,0.38747795932044127,1e-04,0.37242913,0.68108284,0.6192697,0.42331161927169475,0.371406,0.6033551,0.79535145
